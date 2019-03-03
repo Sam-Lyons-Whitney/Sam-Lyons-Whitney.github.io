@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+h1, h2, p {
+	color: orange;
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+}
+h3 {
+	color: orange;
+	text-align: left;
+	font-family: Times New Roman, serif;
+}
+body {
+	background-color: #1A5276;
+	
+} 
+img {
+	max-width:100%;
+	height:auto;
+}
